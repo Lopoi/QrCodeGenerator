@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useState } from "react";
 import "./App.css";
 import { Box, Button, FormControl, FormControlLabel, FormLabel, Grid, InputLabel, MenuItem, Select, Slider, Switch, TextField, Typography } from "@mui/material";
 import QRCode from "qrcode.react";
